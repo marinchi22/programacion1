@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+int getIntRango();
+int getIntRango();
+
+int main()
+{
+ int numero= getIntRango();
+    return 0;
+}
+
+int getIntRango(){
+int numero;
+
+    printf("Ingrese un numero mayo a 200 y menor a 500");
+    scanf("%d",&numero);
+    while(numero < 200 || numero > 500){
+        printf("Error. reingrese un numero valido");
+        scanf("%d",&numero);
+}
+return numero;
+}
