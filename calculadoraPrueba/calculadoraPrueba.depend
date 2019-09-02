@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567322351 source:c:\users\migue\desktop\prueba\calculadoraprueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaMiguel.h"
+
+1567322254 source:c:\users\migue\desktop\prueba\calculadoraprueba\libreriamiguel.c
+	<stdio.h>
+	<stdlib.h>
+
+1567322453 c:\users\migue\desktop\prueba\calculadoraprueba\libreriamiguel.h
+	<stdio.h>
+	<stdlib.h>
+
